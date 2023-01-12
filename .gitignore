@@ -1,3 +1,4 @@
 # Ignore all the .txt files
 *.txt
-*node_modules
+* test.md
+* node_modules
