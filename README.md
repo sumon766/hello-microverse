@@ -38,7 +38,7 @@ Example commands:
 
   cd your-folder-location
 
-  git clone git@github.com/sumon766/hello-microverse.git
+  git clone git@github.com:sumon766/hello-microverse.git
 
   OR
 
